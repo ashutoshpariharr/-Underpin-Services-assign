@@ -3,7 +3,7 @@
 This repository contains the implementation of a user interface based on the provided reference design. The project was developed using Next.js 14 (App Router) and focuses on responsiveness, SEO optimization, and performance.
 
 ## Live Demo
-[View Live Website](Insert Live Website URL)
+[View Live Website](https://underpin-services-assigns.onrender.com)
 
 ## Features
 - **Responsive Design**: Optimized for:
@@ -39,4 +39,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/ashutoshpariharr/-Underpin-Services-assign.git]
